@@ -31,5 +31,6 @@ t0 = time.time()
 main()
 t1 = time.time()
 
+print('The process completed in: ')
 print(t1-t0)
 
